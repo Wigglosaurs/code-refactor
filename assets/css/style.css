@@ -42,3 +42,73 @@ header nav ul li a {
     font-weight: lighter;
     font-size: 20px;
 }
+/* Navigation Bar Styling Ends */
+
+/* Hero Image */
+.hero {
+   background-image: url("../images/digital-marketing-meeting.jpg"); 
+   background-size: cover;
+   background-position: center;
+}
+/* Hero Image Styling Ends */
+
+/* Main Content Styling */
+
+.content {
+    text-align: center;
+    width: 900px;
+    margin: 0 auto 30px auto;
+    background: #33779c;
+    color: white;
+}
+
+/* First Box Styling */
+.search-engine-optimization img {
+    padding: 35px;
+    width: 35%;
+    float: left;
+}
+
+.search-engine-optimization-bio {
+    padding: 35px;
+    float: left;
+    width: 65%;
+}
+
+.search-engine-optimization h2 {
+    font-size: 32px;
+    margin-bottom: 8px;
+}
+
+.search-engine-optimization p {
+    font-size: 17px;
+    line-height: 1.3;
+}
+/* First Box Styling Ends */
+
+/* Second Box Styling */
+.online-reputation-management img {
+    padding: 35px;
+    width: 35%;
+    float: left;
+}
+
+.online-reputation-management-bio {
+    padding: 35px;
+    float: left;
+    width: 65%;
+}
+
+.online-reputation-management p {
+    font-size: 32px;
+    margin-bottom: 8px;
+    line-height: 1.3;
+}
+
+.text-left {
+    text-align: left;
+}
+
+.text-right {
+    text-align: right;
+}
